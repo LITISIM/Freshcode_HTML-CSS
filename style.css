@@ -329,7 +329,6 @@ body {
     line-height: 1.3;
 }
 
-/* Форма */
 .sub-form {
     display: flex;
     flex-direction: column;
